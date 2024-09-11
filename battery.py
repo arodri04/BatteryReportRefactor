@@ -23,6 +23,7 @@ print(f"{bHealth}%")
 
 #cleaning up and closing files
 os.remove("battery-report.xml")
+os.system('pause')
 
 
 
